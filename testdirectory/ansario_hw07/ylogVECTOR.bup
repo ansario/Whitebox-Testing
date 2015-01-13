@@ -1,0 +1,5 @@
+Main: Beginning execution
+Main: infile  'zdatatest.txt'
+Main: outfile 'zzoutVECTOR'
+Main: logfile 'zzlogVECTOR'
+Main: Ending execution
